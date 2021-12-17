@@ -3,3 +3,4 @@
     .then((reg) => console.log("service worker registered", reg))
     .catch((err) => console.log("Service workers not registered", err ))
     }
+    
